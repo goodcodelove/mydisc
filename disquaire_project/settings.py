@@ -30,7 +30,7 @@ if os.environ.get('ENV') == 'PRODUCTION':
 else:
     DEBUG = True
 
-ALLOWED_HOSTS = ['mycd.herokuapp.com']
+ALLOWED_HOSTS = ['mydisc.herokuapp.com']
 
 
 # Application definition
